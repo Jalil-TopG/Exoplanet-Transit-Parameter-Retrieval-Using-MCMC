@@ -14,3 +14,6 @@ This project uses Markov Chain Monte Carlo (MCMC) methods to retrieve exoplanet 
 - Simulated transit data using analytic light curve models
 - Bayesian parameter estimation via Metropolis-Hastings MCMC
 - Python libraries used: NumPy, Matplotlib, emcee, Batman
+
+
+## More can be read [here](Exoplanet_Transit_Parameter_Retrieval_Using_MCMC%20%281%29.pdf)
